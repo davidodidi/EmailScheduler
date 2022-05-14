@@ -11,5 +11,5 @@ The user can also fill out a form and an email will be scheduled for them too
 
 After the user submits the form, this is the result
 
-<a href="https://ibb.co/X5HqZ15"><img src="https://i.ibb.co/xgZNSWg/Capture.png" alt="Capture" border="0"></a>
+![image](https://user-images.githubusercontent.com/17233438/168420372-3e29bb25-3742-4119-b834-1b294499d36d.png)
 
