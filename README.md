@@ -7,7 +7,7 @@ Here I used Postman to give what was required in order to schedule the emailCanc
 
 The user can also fill out a form and an email will be scheduled for them too
 
-![image](https://user-images.githubusercontent.com/17233438/168420230-57ede056-190e-46ce-9e34-3dd5ee7d5a78.png)
+![image](https://user-images.githubusercontent.com/17233438/168420675-7c909b93-8cb5-4bd7-92f2-b1243ebcc8f0.png)
 
 After the user submits the form, this is the result
 
