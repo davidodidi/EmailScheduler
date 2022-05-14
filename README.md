@@ -3,7 +3,7 @@ EmailScheduler is a webapp that is used to schedule emails to be sent to someone
 
 Here I used Postman to give what was required in order to schedule the email
 
-![image](https://user-images.githubusercontent.com/17233438/168420054-0034a5da-c53d-4a75-aadb-0ce6e49ecded.png)
+![image](https://user-images.githubusercontent.com/17233438/168420412-a971f069-328d-45d8-a67c-b666e1e8e73a.png)
 
 The user can also fill out a form and an email will be scheduled for them too
 
