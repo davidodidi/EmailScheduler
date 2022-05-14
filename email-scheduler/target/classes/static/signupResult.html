@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Signup result</title>
+</head>
+<body>
+<h1>Signup result</h1>
+<p th:text="'Subject name: ' + ${user.getSubject}" />
+<p th:text="'Email: ' + ${user.getEmail}" />
+<p th:text="'Body: ' + ${user.getBody}" />
+<p th:text="'DateTime: ' + ${user.getDateTime}" />
+<p th:text="'TimeZone: ' + ${user.getTimezone}" />
+</body>
+</html>
