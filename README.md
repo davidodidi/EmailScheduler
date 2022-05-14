@@ -1,5 +1,5 @@
 # EmailScheduler
-EmailScheduler is a webapp that is used to schedule emails to be sent to someone in the future. It was built using javascript, HTML andd CSS as the frontend and Java Spring as the backend.
+EmailScheduler is a webapp that is used to schedule emails to be sent to someone in the future. It was built using javascript, HTML andd CSS as the frontend and Java Spring as the backend. The Quartz scheduler was used to schedule jobs in Spring Boot. Quartz is a feature-rich, open source job scheduling library that can be integrated into virtually any Java application, from the smallest stand-alone application to the most complex e-commerce system. Quartz can be used to create simple or complex schedules for hundreds of jobs to be executed. MySQL was also used to store the information in a databse and Postman was used to test the application.
 
 Here I used Postman to give what was required in order to schedule the emailCancel changes
 
